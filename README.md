@@ -29,7 +29,7 @@ Currently this app includes
 The following features are in process for this app.
 
 * Authentication and Authorization
-* Additional
+* Additional styling will be added
 
 ## License
 
