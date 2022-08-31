@@ -1,16 +1,14 @@
 
 # Better Bank Exercise
 
-This project creates a Single Page Application with some banking functionality.
-
 ## Description
   
-* THis application allows you to do normal banking functions such as create an account, make deposits & withdrawals and see your transactions.
+* This application allows you to do normal banking functions such as create an account, make deposits & withdrawals and see your transactions.
 * This app will include authentication and authorization.
 * My motivation in building it was to learn.
 
 <img src="/images/create-account-pic.jpg" alt="Form used to create an account" width="200" height="200"/>
-<img src="/images/all-data-pic.jpg" alt="list of all user information" width="400" height="200"/>
+<img src="/images/all-data-pic.jpg" alt="list of all user information" width="500" height="200"/>
 
 ## Installation Guidelines
 
